@@ -285,3 +285,5 @@ class Computer {
 ```
 * Now the Computer class depends on the abstractions InputDevice, passed via its constructor.
 * You can now easily substitute Keyboard with other implementations (e.g., a TouchScreen) without changing the Computer class
+
+**Reference: [https://www.freecodecamp.org/news/solid-principles-for-better-software-design/](https://www.freecodecamp.org/news/solid-principles-for-better-software-design/)**
